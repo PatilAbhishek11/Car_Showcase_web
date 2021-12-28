@@ -295,7 +295,6 @@ section{
   position: absolute;
   top: 15%;
   right: 12%;
-  z-index: 999;
   display: grid;
   place-items: center;
   cursor: pointer;
@@ -318,7 +317,6 @@ section{
   position: absolute;
   top: 15%;
   right: 6%;
-  z-index: 999;
   display: grid;
   place-items: center;
   cursor: pointer;
