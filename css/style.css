@@ -225,7 +225,6 @@ section{
     position: absolute;
     top: 15%;
     right: 20%;
-    z-index: 1;
     display: grid;
     place-items: center;
     cursor: pointer;
@@ -344,6 +343,7 @@ section{
   position: absolute;
   top: 45%;
   right: 21%;
+  z-index: 1;
 }
 }
 @media screen and (max-width:700px){
