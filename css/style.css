@@ -225,7 +225,7 @@ section{
     position: absolute;
     top: 15%;
     right: 20%;
-    z-index: 999;
+    z-index: 1;
     display: grid;
     place-items: center;
     cursor: pointer;
